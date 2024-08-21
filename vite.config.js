@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://github.com/Abdul-Akram/Employer-Form---React.git",
+  base: "/Employer-Form---React.git",
   plugins: [react()],
 });
