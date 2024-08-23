@@ -1,9 +1,9 @@
 {
   "name": "form",
-  "homepage": "https://abdul-akram.github.io/Employer-Form---React/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "home": "https://abdul-akram.github.io/Employer-Form---React/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
